@@ -1,7 +1,7 @@
-# GPT-4 on an algorithm it has never heard of
+# GPT-4 on GRPO
 
 GPT-4's training data ends before DeepSeekMath introduced Group Relative Policy
-Optimization (GRPO). We described GRPO to GPT-4 using the paper's own method
+Optimization (GRPO). I described GRPO to GPT-4 using the paper's own method
 text, with the name removed, and asked it two questions:
 
 1. **Predict the result.** Given a 7B math model after instruction tuning and its
